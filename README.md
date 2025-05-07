@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Just a Software Developer sharing my journey
+Just a Software Developer sharing my journey <br/>
 Studying Information Technology at [University of Science](https://en.hcmus.edu.vn/)
