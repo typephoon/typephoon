@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Phong 👋
 
 <!--
 **LeThanhPhongWork/LeThanhPhongWork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Just a Software Developer sharing my journey
+Studying Information Technology at [University of Science](https://en.hcmus.edu.vn/)
