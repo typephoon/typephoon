@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 Just a Software Developer sharing my journey <br/>
-Studying Information Technology at [University of Science](https://en.hcmus.edu.vn/)
+Studying Information Technology at [University of Science - VNUHCMUS](https://en.hcmus.edu.vn/)
