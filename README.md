@@ -17,8 +17,5 @@ Linkedin: [Thanh Phong Lê](https://www.linkedin.com/in/thanh-phong-l%C3%AA-793b
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=typephoon&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=typephoon&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=typephoon&icon=0&color=0)](https://visitcount.itsvg.in)
