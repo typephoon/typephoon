@@ -3,7 +3,7 @@
 Just a Software Developer sharing my journey <br/>
 Studying Information Technology at [University of Science - VNUHCMUS](https://en.hcmus.edu.vn/) <br/>
 
-# 📬 Contact
+# 📬 Contact:
 Email: [lethanhphong2005.work@gmail.com](https://mail.google.com/mail/?view=cm&to=lethanhphong2005.work@gmail.com) <br/>
 Linkedin: [Thanh Phong Lê](https://www.linkedin.com/in/thanh-phong-l%C3%AA-793b93364/)
 
