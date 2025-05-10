@@ -5,6 +5,7 @@ Studying Information Technology at [University of Science - VNUHCMUS](https://en
 
 # Contact
 Email: [lethanhphong2005.work@gmail.com](mailto:lethanhphong2005.work@gmail.com)
+Linkedin: [Thanh Phong Lê](www.linkedin.com/in/thanh-phong-lê-793b93364)
 
 
 # 💻 Tech Stack:
@@ -21,7 +22,3 @@ Email: [lethanhphong2005.work@gmail.com](mailto:lethanhphong2005.work@gmail.com)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=typephoon&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
