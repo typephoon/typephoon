@@ -13,7 +13,7 @@ Linkedin: [Thanh Phong Lê](https://www.linkedin.com/in/thanh-phong-l%C3%AA-793b
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=typephoon&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=typephoon&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=60)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=typephoon&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
