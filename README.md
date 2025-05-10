@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 Just a Software Developer sharing my journey <br/>
 Studying Information Technology at [University of Science - VNUHCMUS](https://en.hcmus.edu.vn/) <br/>
-[![Phong's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Phong's GitHub stats](https://github-readme-stats.vercel.app/api?username=typephoon)](https://github.com/typephoon/github-readme-stats)
