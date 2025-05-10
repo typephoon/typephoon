@@ -22,9 +22,15 @@ Linkedin: [Thanh Phong Lê](https://www.linkedin.com/in/thanh-phong-l%C3%AA-793b
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=typephoon&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=60)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=typephoon&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align=center>
+    <img align="center" width="53%" src="https://github-readme-stats.vercel.app/api?username=typephoon&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true" />
+    <img align="right" width="42%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=typephoon&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</div>
 
+<!-- <div align=center>
+    <img width="42%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranlynhathao&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+    <img align="right" width="53%" src="https://github-readme-stats.vercel.app/api?username=tranlynhathao&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false" />
+</div> -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=typephoon&icon=0&color=0)](https://visitcount.itsvg.in)
